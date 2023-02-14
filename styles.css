@@ -919,7 +919,7 @@ h1 {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 425px) {
   .header-nav,
   .header-container .button,
   .footer,
